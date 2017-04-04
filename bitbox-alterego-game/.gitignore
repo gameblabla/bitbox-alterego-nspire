@@ -1,0 +1,13 @@
+build/
+misc/
+alterego_sdl
+maps.h
+maps_data.c
+song.c
+*_emu
+*_test
+*.bin
+*.elf
+*.spr
+*.tmap
+*.tset
